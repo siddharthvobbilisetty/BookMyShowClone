@@ -1,5 +1,5 @@
 BookMyShow-Clone
-Similar website like BMS created using Django.
+Created a website like Book My Show created using Django.
 
 Screenshots:
 
